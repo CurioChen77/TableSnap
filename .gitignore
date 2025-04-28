@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# output folder
+output/
+
+# example folder
+examples/
+
+# config file
+config.yaml
